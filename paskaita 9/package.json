@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "paskaita-9",
+  "version": "1.0.0",
+  "main": "controllers.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3"
+  },
+  "type": "module"
+}

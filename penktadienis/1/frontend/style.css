@@ -1,0 +1,11 @@
+#todoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.deleteButton {
+  color: white;
+  background-color: red;
+  border: 0;
+}
